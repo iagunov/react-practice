@@ -90,3 +90,7 @@ input.apple-switch:checked:after {
   background-color: transparent;
   font-size: 18px;
 }
+
+.done {
+  text-decoration: line-through;
+}
